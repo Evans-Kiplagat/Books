@@ -1,6 +1,8 @@
 # Books
 Mini-Library
 
+this app provides an room to engage into a reading mode for a book you select.
+
 
 
 
